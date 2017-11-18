@@ -1,5 +1,5 @@
 {
-    "root": "dist/",
+    "root": "public_html/",
     "https_only": true,
     "clean_urls": true,
     "routes": {
