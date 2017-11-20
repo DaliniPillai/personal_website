@@ -103,7 +103,7 @@ header .intro-text .skills {
   }
 }
 .navbar-custom {
-  background: #fc436d;
+  background: #615f60;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -299,7 +299,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 footer {
-  background:#fc436d;
+  background:#615f60;
   padding: 25px 0;
   text-align: center;
 }
